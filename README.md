@@ -1,2 +1,2 @@
 # WebApp
-This is the first WebApp
+This is a testing app
